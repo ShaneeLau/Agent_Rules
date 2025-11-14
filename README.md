@@ -1,2 +1,2 @@
-# Agent-Rules
+# Agent
 Agent Rules
