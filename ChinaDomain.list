@@ -42,6 +42,7 @@ DOMAIN-KEYWORD,qhimg
 DOMAIN-KEYWORD,vpimg
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,dingtalk
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,dingtalk.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
