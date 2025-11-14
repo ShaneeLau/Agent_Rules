@@ -1,1 +1,4 @@
+# 国际域名直连规则
 
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,microsoft.com
